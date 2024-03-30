@@ -21,14 +21,21 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Finally run the following command
 python app.py
+
 Now,
 
 #### open up localhost:
 
 Techstack Used:
+
 Python
+
 LangChain
+
 Flask
+
 OpenAI
+
 GPT 3
+
 ChoromaDB
