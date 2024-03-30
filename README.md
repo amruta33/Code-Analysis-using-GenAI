@@ -16,12 +16,15 @@ STEP 02- install the requirements
 pip install -r requirements.txt
 
 Create a .env file in the root directory and add your OPENAI_API_KEY credentials as follows:
+
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 # Finally run the following command
 python app.py
 Now,
 
-open up localhost:
+#### open up localhost:
+
 Techstack Used:
 Python
 LangChain
